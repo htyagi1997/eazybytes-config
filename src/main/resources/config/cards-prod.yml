@@ -1,0 +1,8 @@
+cards:
+  message: "Welcome to EazyBank cards related PROD APIs"
+  contactDetails:
+    name: "John Cena- Developer"
+    email: "johncena@eazybank.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 555-4567
