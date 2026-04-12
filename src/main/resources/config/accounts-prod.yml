@@ -2,7 +2,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs"
   contactDetails:
     name: "Smith Roger- Product Owner"
-    email: "smith@eazybank.com"
+    email: "{cipher}9aa5fe255911fcaa9c222c86211cd857150245ec95c970d4fd91a9b0ce030b9fca131de5a9b2ec1ad5a80d419f9fedac"
   onCallSupport:
     - (777) 555-1234
     - (777) 555-4567
