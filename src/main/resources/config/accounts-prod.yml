@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to EazyBank accounts related webhook Prod APIs"
+  message: "Welcome to EazyBank accounts related webhook Production APIs"
   contactDetails:
     name: "Smith Roger- Product Owner"
     email: "{cipher}9aa5fe255911fcaa9c222c86211cd857150245ec95c970d4fd91a9b0ce030b9fca131de5a9b2ec1ad5a80d419f9fedac"
